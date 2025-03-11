@@ -1,0 +1,9 @@
+<mvc:View controllerName="logaligroup.project1.controller.none"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>
+            <Text id='T1' >Hello APP Fiori</Text>
+        </content>
+    </Page>
+</mvc:View>
